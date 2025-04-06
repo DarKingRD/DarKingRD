@@ -10,6 +10,7 @@
   <p>💻 В настоящее время углубленно изучаю <strong>Golang</strong></p>
   <p>🌐 Имею опыт работы с:</p>
   <ul>
+    <li>Языки программирования: Python, Go, C++, R, JavaScript</li>
     <li>Бэкенд: Django, Python, основы Go</li>
     <li>Фронтенд: JavaScript, React, HTML/CSS</li>
   </ul>
