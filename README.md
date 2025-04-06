@@ -81,7 +81,7 @@
 ## 📫 Контакты
 
 <div align="center">
-  <a href="super.fineden@yandex.ru">
+  <a href="mailto:super.fineden@yandex.ru">
     <img src="https://img.shields.io/badge/Email-20C20E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/kanaye_east">
