@@ -1,7 +1,7 @@
 # Привет, я Денис 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Студент+по+специальности+IT;Веб-разработчик;Golang+энтузиаст;Fullstack+новичок" alt="Титулка" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%A1%D0%90%D0%A4%D0%A3;%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0+%D0%B8+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" alt="Typing SVG" /></a>
 </div>
 
 ## 🚀 Обо мне
