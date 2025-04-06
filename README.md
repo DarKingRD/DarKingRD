@@ -95,7 +95,21 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/1c/1c-original.svg" width="48" height="48" alt="1C" />
+      <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1120 3280 l0 -240 160 0 160 0 0 -720 0 -720 240 0 240 0 0 960 0
+960 -400 0 -400 0 0 -240z"/>
+<path d="M3070 3510 c-622 -87 -997 -751 -751 -1329 115 -271 343 -465 652
+-554 72 -20 95 -21 842 -24 l768 -4 25 58 c54 122 134 366 134 410 0 11 -142
+13 -801 13 -880 0 -867 -1 -975 61 -279 159 -327 541 -95 762 183 174 466 181
+646 16 l42 -39 272 0 c149 0 271 3 271 7 0 5 -20 48 -45 98 -129 261 -374 451
+-658 511 -91 19 -243 26 -327 14z"/>
+</g>
+</svg>
       <br>1C
     </td>
   </tr>
