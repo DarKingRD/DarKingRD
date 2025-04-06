@@ -1,9 +1,9 @@
-# <div align="center"> Привет, я Денис 👋 </div>
+# <div align="center"> Hello There👋 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%A1%D0%90%D0%A4%D0%A3;%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0+%D0%B8+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0;3+%D0%BA%D1%83%D1%80%D1%81;%D0%92%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0" alt="Typing SVG" /></a>
 </div>
 
-## 🚀 Обо мне
+##  <div align="center"> 🚀 Обо мне </div>
 
 <div style="background: #f5f5f5; padding: 20px; border-radius: 10px; border-left: 5px solid #20C20E;">
   <p>🎓 Студент, активно изучающий веб-разработку</p>
@@ -16,7 +16,7 @@
   <p>🔭 Ищу возможности для роста и интересные проекты</p>
 </div>
 
-## 🛠 Технологический стек
+## <div align="center"> 🛠 Технологический стек </div>
 
 <table align="center">
   <tr>
@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-## 📊 GitHub статистика
+## <div align="center"> 📊 GitHub статистика </div>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   
@@ -70,7 +70,7 @@
   
 </div>
 
-## 🏆 Достижения
+## <div align="center"> 🏆 Достижения </div>
 
 <div align="center">
   
@@ -78,7 +78,7 @@
   
 </div>
 
-## 📫 Контакты
+## <div align="center"> 📫 Контакты </div>
 
 <div align="center">
   <a href="mailto:super.fineden@yandex.ru">
