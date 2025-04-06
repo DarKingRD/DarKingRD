@@ -59,13 +59,14 @@
 
 ## 📊 GitHub статистика
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   
-  ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkingrd&show_icons=true&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=darkingrd&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Моя%20GitHub%20статистика" width="500" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkingrd&layout=compact&theme=dark&hide_border=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=darkingrd&theme=dark&hide_border=true)
+  <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkingrd&layout=compact&theme=dark&hide_border=true&langs_count=6" width="300" />
+    <img src="https://streak-stats.demolab.com/?user=darkingrd&theme=dark&hide_border=true" width="300" />
+  </div>
   
 </div>
 
