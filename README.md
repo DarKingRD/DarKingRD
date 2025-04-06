@@ -10,9 +10,10 @@
   <p>💻 В настоящее время углубленно изучаю <strong>Golang</strong></p>
   <p>🌐 Имею опыт работы с:</p>
   <ul>
-    <li>Языки программирования: Python, Go, C++, R, JavaScript</li>
+    <li>Языки программирования: Python, Go, C++, C#, R, JavaScript</li>
     <li>Бэкенд: Django, Python, основы Go</li>
     <li>Фронтенд: JavaScript, React, HTML/CSS</li>
+    <li>Десктоп: Qt, C++</li>
   </ul>
   <p>🔭 Ищу возможности для роста и интересные проекты</p>
 </div>
@@ -30,16 +31,30 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt" />
+      <br>Qt
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       <br>Django
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
-      <br>R
     </td>
   </tr>
   <tr>
@@ -58,10 +73,6 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
     </td>
   </tr>
 </table>
