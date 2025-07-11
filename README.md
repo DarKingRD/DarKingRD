@@ -12,9 +12,8 @@
 <div style="background: #f5f5f5; padding: 20px; border-radius: 10px; border-left: 5px solid #20C20E;">
     <p>📚 Активно развиваюсь в веб-разработке:</p>
   <ul>
-    <li>Прохожу курс <strong>"Разработка веб-сервисов на Golang"</strong> от VK</li>
     <li>Завершил курс <strong>"Бэкенд-разработка"</strong> в Яндекс Практикуме</li>
-    <li>Осваиваю <strong>"Фронтенд-разработку"</strong> в Яндекс Практикуме</li>
+    <li><strong>"Фронтенд-разработка"</strong> в Яндекс Практикуме</li>
   </ul>
   <p>🌐 Имею опыт работы с:</p>
   <ul>
