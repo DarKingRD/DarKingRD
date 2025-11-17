@@ -15,12 +15,18 @@
     <li>Завершил курс <strong>"Бэкенд-разработка"</strong> в Яндекс Практикуме</li>
     <li>Завершил курс <strong>"Фронтенд-разработка"</strong> в Яндекс Практикуме</li>
   </ul>
+    <p> Помимо этого: </p>
+    <ul>
+        <li>
+            Прохожу курс от <strong>Samsung "Искусственный интеллект"</strong>
+        </li>
+    </ul>
   <p>🌐 Имею опыт работы с:</p>
   <ul>
     <li>Языки программирования: Python, Go, C++, C#, R, JavaScript, Java</li>
     <li>Бэкенд: Django, Python, основы Go</li>
     <li>Фронтенд: JavaScript, React, HTML/CSS</li>
-    <li>Базы данных: SQL (MySQL, PostgreSQL)</li>
+    <li>Базы данных: SQL (MySQL, PostgreSQL, )</li>
     <li>Корпоративные системы: 1C Предприятие</li>
     <li>Десктоп: Qt, C++, Java</li>
   </ul>
