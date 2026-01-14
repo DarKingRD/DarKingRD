@@ -110,27 +110,6 @@
   </tr>
 </table>
 
-## <div align="center"> 📊 GitHub статистика </div>
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=darkingrd&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Моя%20GitHub%20статистика" width="500" />
-  
-  <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkingrd&layout=compact&theme=dark&hide_border=true&langs_count=6" width="300" />
-    <img src="https://streak-stats.demolab.com/?user=darkingrd&theme=dark&hide_border=true" width="300" />
-  </div>
-  
-</div>
-
-## <div align="center"> 🏆 Достижения </div>
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=darkingrd&theme=onedark&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
 ## <div align="center"> 📫 Контакты </div>
 
 <div align="center">
