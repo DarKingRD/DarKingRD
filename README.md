@@ -1,7 +1,4 @@
 # <div align="center"> Hello There👋 </div>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=945DF7&center=true&width=435&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%A1%D0%90%D0%A4%D0%A3;%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0+%D0%B8+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0;4+%D0%BA%D1%83%D1%80%D1%81;%D0%92%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0" alt="Typing SVG" /></a>
-</div>
 
 <div align="center">
     <img src="https://sun9-48.userapi.com/impg/kiC-hW5GbRFblFDyCISsI2VAp5UksKLq-xyxAA/DwLvsTGbA3E.jpg?size=2560x2560&quality=95&sign=678da173b6ad41e3069317d79a00ddf5&type=album" width="400" height="400">
